@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "438833265394",
+    "firebase_url": "https://barcode-chat-project-default-rtdb.firebaseio.com",
+    "project_id": "barcode-chat-project",
+    "storage_bucket": "barcode-chat-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438833265394:android:7d1b4e694b459eb3156e6b",
+        "android_client_info": {
+          "package_name": "com.example.barcode_projact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438833265394-h1h3rdvbc1vgg036l598dk7kpqu8h3kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjlmhsl9SQjNJ-g0f_vWVxB08VOZ7WsB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438833265394-h1h3rdvbc1vgg036l598dk7kpqu8h3kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
